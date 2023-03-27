@@ -1,21 +1,17 @@
 ## 🧐 Features    
 - Fetch real-time data from Youtube API
-- Used redux to store data
-- Implemented caching to reduce unnecessary calls
-- Implemented Nested Comment feature using static data and recursion
-- Implemented a clone of Live chat where a user can comment also and be a part of Live chat
-
-## Upcoming features
-
-- Switch between light and dark mode
-- user can log in using Gmail
-
+- Home page with recommended videos
+- Video detail page with information about the video and related videos
+- Search page with search results based on user input
+- Fully responsive design
+- Video playback using React Player
 
 ## 🛠️ Tech Stack
 - React
-- Tailwind CSS
-- Redux Toolkit
-- react-router
+- React Router
+- Material-UI v5
+- Rapid API
+- Axios
 
 ## Demo
 
