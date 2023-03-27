@@ -15,4 +15,4 @@
 
 ## Demo
 
-[Demo Link](https://heartfelt-vacherin-a74ed2.netlify.app/)
+[Demo Link](https://effervescent-cannoli-5ee706.netlify.app/)
